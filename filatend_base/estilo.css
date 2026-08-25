@@ -1,0 +1,26 @@
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        button {
+            margin-right: 5px;
+            padding: 5px 10px;
+            display: inline-block;
+        }
+
+        /* cores por tipo */
+        .tcc {
+            background-color: lightblue; /* azul claro */
+        }
+
+        .ext {
+            background-color: greenyellow; /* verde claro */
+        }
+        li {
+          margin-bottom: 5px;
+          padding: 5px;
+        }
+        .toolbar {
+            display: flex;
+            gap: 2px;           
+        }
