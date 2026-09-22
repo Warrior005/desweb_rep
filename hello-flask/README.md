@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como atividade prática de laboratório da disciplina **Desenvolvimento Web Full**.
 
-O projeto apresenta um sistema Web simples utilizando **Python com Flask**, HTML, CSS e JavaScript.
+A aplicação utiliza **Python com Flask**, HTML, CSS e JavaScript para demonstrar conceitos básicos de desenvolvimento Web.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -22,4 +22,19 @@ projeto/
 └── static/
     ├── style.css
     └── script.js
+```
 
+## ▶️ Executando
+
+1. Instale o Flask
+    ```text
+    pip install flask
+    ```
+2. Execute a aplicação
+    ```text
+    python app.py
+    ```
+3. Acesse no navegador
+    ```text
+    http://127.0.0.1:5000
+    ```
